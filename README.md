@@ -1,6 +1,9 @@
 # Hi there, I'm Hunain Raza! 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HunainRaza&color=blue" />
+</p>
 
-### 🤖 AI Engineer | 💻 Full-Stack Developer
+###  🤖 AI Engineer | 💻 Full-Stack Developer
 
 I am an **AI/ML Engineer and Full-Stack Developer** specializing in building intelligent applications that integrate machine learning with modern web technologies. Currently pursuing my **M.Sc. in Artificial Intelligence** at Brandenburg Technical University, I have a proven track record in developing production-ready AI systems.
 
