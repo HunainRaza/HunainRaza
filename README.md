@@ -2,49 +2,64 @@
 
 ### 🤖 AI Engineer | 💻 Full-Stack Developer
 
-[cite_start]I am an **AI/ML Engineer and Full-Stack Developer** specializing in building intelligent applications that integrate machine learning with modern web technologies[cite: 6]. [cite_start]Currently pursuing my **M.Sc. in Artificial Intelligence** at Brandenburg Technical University [cite: 55, 57][cite_start], I have a proven track record in developing production-ready AI systems[cite: 7].
+I am an **AI/ML Engineer and Full-Stack Developer** specializing in building intelligent applications that integrate machine learning with modern web technologies. Currently pursuing my **M.Sc. in Artificial Intelligence** at Brandenburg Technical University, I have a proven track record in developing production-ready AI systems.
+
+---
+
+### 🛠️ Languages & Tools
+
+**AI & Machine Learning**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
+
+**Backend & Integration**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frontend & Web**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 What I'm Working On
-* [cite_start]**AI Video Generation:** Building platforms using Genmo Mochi, Diffusers, and Flask[cite: 62, 63].
-* [cite_start]**RAG Systems:** Developing document-based Q&A chatbots using LangChain, FAISS, and FastAPI[cite: 71, 72].
-* [cite_start]**Healthcare Tech:** Integrating satellite data with health insights (ESA CASSINI Hackathon Winner)[cite: 82, 84].
-
----
-
-### 🛠️ Technical Skills
-
-**🧠 AI & Machine Learning**
-* [cite_start]**Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face (Transformers/Diffusers)[cite: 36].
-* [cite_start]**Specializations:** Computer Vision, NLP, RAG, GenAI[cite: 36, 37].
-* [cite_start]**Tools:** LangChain, OpenAI, FAISS, Pinecone[cite: 39, 40].
-
-**⚙️ Backend & DevOps**
-* [cite_start]**Languages:** Python, C#, MATLAB[cite: 44].
-* [cite_start]**Frameworks:** Django (DRF), Flask, FastAPI, Celery[cite: 45].
-* [cite_start]**Cloud/Ops:** AWS, Docker, Kubernetes, GCP, Redis[cite: 51, 52].
-* [cite_start]**Databases:** PostgreSQL, MongoDB, MySQL[cite: 46].
-
-**🎨 Frontend**
-* [cite_start]**Stack:** React.js, Next.js, HTML5/CSS3, JavaScript[cite: 48, 49].
+* **AI Video Generation:** Building platforms using Genmo Mochi, Diffusers, and Flask.
+* **RAG Systems:** Developing document-based Q&A chatbots using LangChain, FAISS, and FastAPI.
+* **Healthcare Tech:** Integrating satellite data with health insights (ESA CASSINI Hackathon Winner).
 
 ---
 
 ### 🏆 Achievements
-* [cite_start]🥇 **1st Place:** Quantitative Data Analysis & Visualization Hackathon (2024)[cite: 89].
-* [cite_start]🥈 **2nd Place:** 9th CASSINI Hackathon: Space for Healthcare (2025)[cite: 82].
+* 🥇 **1st Place:** Quantitative Data Analysis & Visualization Hackathon (2024).
+* 🥈 **2nd Place:** 9th CASSINI Hackathon: Space for Healthcare (2025).
 
 ---
 
 ### 💼 Experience Highlights
-* [cite_start]**Full Stack Engineer (Working Student)** @ *Migrando GmbH* (2024) - Automating CRM workflows and building PDF conversion APIs[cite: 10, 12].
-* [cite_start]**Software Engineer (Working Student)** @ *Wayfair DE* (2024) - Optimizing product catalog processing and Kubernetes microservices[cite: 15, 17, 19].
-* [cite_start]**Backend Engineer** @ *Techlabs-cc* (2022-2023) - Architecting Django REST APIs and handling Stripe integrations[cite: 21, 22, 23].
+* **Full Stack Engineer (Working Student)** @ *Migrando GmbH* (2024) - Automating CRM workflows and building PDF conversion APIs.
+* **Software Engineer (Working Student)** @ *Wayfair DE* (2024) - Optimizing product catalog processing and Kubernetes microservices.
+* **Backend Engineer** @ *Techlabs-cc* (2022-2023) - Architecting Django REST APIs and handling Stripe integrations.
 
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/hunain-raza/)
-* [Portfolio](https://hunainraza.com)
-* 📧 **Email:** hunainrazazaidi@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/hunain-raza/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hunain-raza" /></a>
+<a href="https://hunainraza.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:hunainrazazaidi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
